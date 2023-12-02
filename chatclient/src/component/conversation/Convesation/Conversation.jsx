@@ -39,7 +39,7 @@ function Conversation() {
           </div>
         ))
       ) : (
-        <h1>Search the persons</h1>
+        <h1>Search the person</h1>
       )}
     </>
   );
